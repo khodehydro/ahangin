@@ -1,4 +1,12 @@
 {
-  "image_url": "https://s32.picofile.com/file/8482141868/downloadedImage_11_.png",
-  "image_link": "https://instagram.com/ahangincom"
+  "ads": [
+    {
+      "image_url": "https://s32.picofile.com/file/8482152984/downloadedImage_13_.png",
+      "image_link": "https://instagram.com/ahangincom"
+    },
+    {
+      "image_url": "https://s32.picofile.com/file/8482152992/downloadedImage_12_.png",
+      "image_link": "https://instagram.com/ahangincom"
+    }
+  ]
 }
