@@ -1,12 +1,13 @@
 {
-  "ads": [
-    {
-      "image_url": "https://github.com/khodehydro/ahangin/blob/main/laxury_img_two.jpg?raw=true",
-      "image_link": "https://github.com/khodehydro/ahangin/raw/refs/heads/main/Nancy-AjramMeen-Dah-Elly-Nseik-320%20(1).mp3"
-    },
-    {
-      "image_url": "https://github.com/khodehydro/ahangin/blob/main/laxury_img_one.jpg?raw=true",
-      "image_link": "https://www.instagram.com/ahangincom"
+  "story": {
+    "duration_ms": 3001,
+    "audio_url": "https://dl.rozmusic.com/Music/1402/10/25/Ahmad%20Solo%20-%20Arteshe%20Solo.mp3",
+    "image_url": "https://rozmusic.com/wp-content/uploads/2024/01/Ahmad-Solo-Arteshe-Solo.jpg",
+    "main_title": "AHMAD SOLO",
+    "second_title": "Army",
+    "link_text": {
+      "text": "Click here",
+      "url": "https://rozmusic.com/tag/%D8%A7%D8%AD%D9%85%D8%AF-%D8%B3%D9%84%D9%88/page/2"
     }
-  ]
+  }
 }
