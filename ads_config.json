@@ -1,13 +1,13 @@
 {
   "story": {
-    "duration_ms": 300100,
-    "audio_url": "https://dl.rozmusic.com/Music/1402/10/25/Ahmad%20Solo%20-%20Arteshe%20Solo.mp3",
-    "image_url": "https://github.com/khodehydro/ahangin/blob/main/laxury_img_one.jpg?raw=true",
-    "main_title": "BTS",
-    "second_title": "Spring",
+    "duration_ms": 10000,
+    "audio_url": "",
+    "image_url": "https://github.com/khodehydro/ahangin/blob/main/telegram_poster.jpg?raw=true",
+    "main_title": "",
+    "second_title": "",
     "link_text": {
-      "text": "Click here",
-      "url": "https://rozmusic.com/tag/%D8%A7%D8%AD%D9%85%D8%AF-%D8%B3%D9%84%D9%88/page/2"
+      "text": "Click to join",
+      "url": "https://t.me/ahanginapp"
     }
   }
 }
